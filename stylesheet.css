@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+header {
+    background-color: white;
+    padding: 20px;
+}
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    display: inline;
+}
+header a {
+    text-decoration: none;
+    color: black;
+}
+header nav {
+    float: right;
+    margin: 20px;
+}
+header nav ul li {
+    display: inline;
+    padding: 10px;
+  }
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: whitesmoke;
+    width: 100%;
+  }
+footer {
+    background: white;;
+    padding: 20px;
+    margin: 0px;
+  }
